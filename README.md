@@ -1,6 +1,7 @@
-# AutomationDataExtraction
+# Automated Geographic Data Extraction and Processing System
 
 This project automates the extraction of cadastral data from free data sources, such as South Australia and Northern Territory. The automation dynamically adapts to the extraction format of each website, ensuring efficient data retrieval.
+
 
 __**Key Features**__
     Web Scraping & API Integration – Utilizes APIs when available; otherwise, employs web scraping techniques to extract data.
